@@ -7,5 +7,6 @@
   "icon": "https://cdn.jsdelivr.net/gh/deepseekfund-dot/openclaw-busylobster-indicator@main/assets/busylobster.gif",
   "entry": "index.js",
   "tags": ["UI", "UX", "Animation", "Lobster"],
+  "license": "MIT",
   "homepage": "https://github.com/deepseekfund-dot/openclaw-busylobster-indicator"
 }
