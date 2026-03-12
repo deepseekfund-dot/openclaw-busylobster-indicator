@@ -1,12 +1,12 @@
 {
   "id": "openclaw-busylobster-indicator",
   "name": "OpenClaw-BusyLobster-Indicator",
-  "version": "1.0.0",
-  "description": "A sprinting lobster that fades in gracefully after 1.5s to soothe user waiting anxiety.",
+  "version": "2.0.0",
+  "description": "A sprinting lobster with lightning using native Emoji + CSS animations (no GIF). Fades in after 1.5s to soothe user waiting anxiety.",
   "author": "deepseek.club",
-  "icon": "https://cdn.jsdelivr.net/gh/deepseekfund-dot/openclaw-busylobster-indicator@main/assets/busylobster.gif",
+  "icon": "🦞",
   "entry": "index.js",
-  "tags": ["UI", "UX", "Animation", "Lobster"],
+  "tags": ["UI", "UX", "Animation", "Lobster", "Emoji"],
   "acceptLicenseTerms": true,
   "license": "MIT",
   "homepage": "https://github.com/deepseekfund-dot/openclaw-busylobster-indicator"
